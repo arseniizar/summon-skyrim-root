@@ -1,8 +1,24 @@
 {
  "origins": {
-  "xeXdPXdBSiBGLLtREpowYDT/bAb8P28O2NrUnyeL1Fw": {
-   "url": "https://www.moddb.com/mods/more-vampire-eyes/downloads/more-vampire-eyes-le-15",
-   "tentative_name": "More_Vampire_Eyes-15.7z"
+  "+ghv4Gznlg9/LNk2SAD1LfkdRII0vqbc9BawMPw3uMs": {
+   "url": "https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads/skyrim-realistic-overhaul-part-2",
+   "filename-on-page": "Skyrim_Realistic_Overhaul_Part_2.7z",
+   "tentative_name": "Skyrim_Realistic_Overhaul_Part_2.7z"
+  },
+  "lhn3fyASQyYtb72O219kivZlfFjeYPhOAb6/mDhMXRs": {
+   "url": "https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads/sro-18-original-skyrim-version-update",
+   "filename-on-page": "SRO_1.8._Original_Skyrim_version_update.rar",
+   "tentative_name": "SRO_1.8._Original_Skyrim_version_update.rar"
+  },
+  "vNRUUllH9ZjX425F+zA+vRmW8e5Lb1Ejlqp/HlwvjW8": {
+   "url": "https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads/skyrim-realistic-overhaul-part-3",
+   "filename-on-page": "Skyrim_Realistic_Overhaul_Part_3.7z",
+   "tentative_name": "Skyrim_Realistic_Overhaul_Part_3.7z"
+  },
+  "xwGZxsXgToK10c8nGgrO0TkT/6obBOnu69PsC89fPvA": {
+   "url": "https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads/skyrim-realistic-overhaul-part-1",
+   "filename-on-page": "Skyrim_Realistic_Overhaul_Part_1.7z",
+   "tentative_name": "Skyrim_Realistic_Overhaul_Part_1.7z"
   }
  }
 }

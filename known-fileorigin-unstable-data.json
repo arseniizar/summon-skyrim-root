@@ -1,11 +1,11 @@
 {
  "origins": {
-  "https://enbdev.com/enbseries_skyrim_v0479.zip": {
+  "http://enbdev.com/download_mod_tesskyrimse.html": {
    "hashes": [
-    "wk+dy8SQ2yydhVdWofc9HpKGAmV5vDKBkvi3Z1IZkuY"
+    "2xbznIzQddScSMTBJtI6eReUBnlJ1gcCSrkaM96WAo0"
    ],
-   "tentative_name": "enbseries_skyrimse_v0479.zip",
-   "referer": "http://enbdev.com/download_mod_tesskyrimse.html"
+   "tentative_name": "enbseries_skyrimse_v0504.zip",
+   "referer": "http://enbdev.com/"
   }
  }
 }
